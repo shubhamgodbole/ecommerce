@@ -1,0 +1,127 @@
+
+---Downloaded files---
+The import files for: firezy were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/shubham/ecom3
+Data file = C:\wamp64\www\shubham\ecom3/wp-content/themes/firezy/demo-content/default/firezy.wordpress.xml
+Widget file = C:\wamp64\www\shubham\ecom3/wp-content/themes/firezy/demo-content/default/firezy_widgets_settings.wie
+Customizer file = C:\wamp64\www\shubham\ecom3/wp-content/themes/firezy/demo-content/default/firezy_customizer_export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+shop-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Product Categories - Product categories - Imported to Inactive
+Filter Products by Price - Filter by price - Imported to Inactive
+Filter Products by Attribute - Filter by color - Imported to Inactive
+Filter Products by Attribute - Filter by size - Imported to Inactive
+Product Tag Cloud - Product tags - Imported to Inactive
+Products - On-sale - Imported to Inactive
+
+Main Sidebar : 
+
+Search - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Header Shopping Cart Widget Area : 
+
+Cart - Cart - Imported
+
+Header Search Widget Area : 
+
+Advance Search Widget - No Title - Imported
+
+Product Category Widget Area : 
+
+Product Categories - Product categories - Imported
+
+ Single Product Page Sidebar Area : 
+
+Visual Editor - No Title - Imported
+CMS Block - No Title - Imported
+
+Single Product CMS Tab : 
+
+Visual Editor - No Title - Imported
+
+First Footer Widget Area : 
+
+Static Links - Help - Imported
+
+Second Footer Widget Area : 
+
+Static Links - Policy - Imported
+
+Third Footer Widget Area : 
+
+Static Links - About - Imported
+
+Fourth Footer Widget Area : 
+
+Footer Contact Us - Contact Us - Imported
+
+Fifth Footer Widget Area : 
+
+Newsletter - Subscribe Now - Imported
+
+Footer Bottom Widget Area : 
+
+WooCommerce Accepted Payment Methods - Accepted Payment Methods - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+Slider processed
